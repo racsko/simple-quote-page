@@ -1,0 +1,13 @@
+/* =============================
+    GENERAL STYLES
+=============================*/
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Julius Sans One', sans-serif;
+    background: url("assets/freedom.jpg") no-repeat center 15%;
+    background-size: cover;
+}
